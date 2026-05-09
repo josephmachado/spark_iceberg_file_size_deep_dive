@@ -1,4 +1,5 @@
 minio_data/
+.tmp/
 stackoverflow_data/
 
 notebooks/data/ 
